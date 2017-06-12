@@ -1,0 +1,17 @@
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\bin\Debug\Baza danych.exe.config
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\bin\Debug\Baza danych.exe
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\bin\Debug\Baza danych.pdb
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\obj\Debug\Baza danych.csprojResolveAssemblyReference.cache
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\obj\Debug\Baza_danych.Properties.Resources.resources
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\obj\Debug\Baza danych.csproj.GenerateResource.Cache
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\obj\Debug\Baza danych.exe
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\obj\Debug\Baza danych.pdb
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\obj\Debug\Baza_danych.menu.resources
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\obj\Debug\Baza_danych.dodajPracownika.resources
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\obj\Debug\Baza_danych.dodajKlienta.resources
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\obj\Debug\Baza_danych.dodajPlacowke.resources
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\obj\Debug\Baza_danych.dodajPojazd.resources
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\obj\Debug\Baza_danych.dodajPrzeglad.resources
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\obj\Debug\Baza_danych.dodajWypozyczenie.resources
+\\files\students\s407333\My Documents\Visual Studio 2015\Projects\Baza danych\Baza danych\obj\Debug\Baza_danych.sfinalizujWypozyczenie.resources
+\\files\students\s407333\my documents\visual studio 2015\Projects\Baza danych\Baza danych\obj\Debug\Baza_danych.zmienKlienta.resources
